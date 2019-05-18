@@ -4,7 +4,7 @@
 
 #### Suggestions
 
-- For FeedBack and Suggestions, please feel free to say in [@Thwarikh](https://telegram.org/thwarikh)
+- For FeedBack and Suggestions, 
 
 #### LICENSE
 - GPLv3
